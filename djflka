@@ -1,0 +1,35 @@
+[33mcommit 37e96e1a828fe99549b0c127dd4da293f3653285[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: shiran13243222016 <985289299@qq.com>
+Date:   Tue Jul 17 21:06:16 2018 +0800
+
+    修改了JS
+
+[33mcommit 858c237323f0195c751d285a3eb0d0236ae442c4[m
+Author: shiran13243222016 <985289299@qq.com>
+Date:   Tue Jul 17 21:05:27 2018 +0800
+
+    改做飞机大战项目
+
+[33mcommit fa1d08ec65b0dadfa10cbd030961856b8563c4b0[m
+Author: shiran13243222016 <985289299@qq.com>
+Date:   Tue Jul 17 20:31:35 2018 +0800
+
+    敌机文件重命名并修改
+
+[33mcommit 3ed2d81e3a079f989ebb1763909635ae660a1fd9[m
+Author: shiran13243222016 <985289299@qq.com>
+Date:   Tue Jul 17 20:23:42 2018 +0800
+
+    游戏机文件重命名并改了内容
+
+[33mcommit ef020a3f3763fdf66758120076dde50d5d2b4772[m
+Author: shiran13243222016 <985289299@qq.com>
+Date:   Tue Jul 17 20:01:35 2018 +0800
+
+    bullet文件重命名了名，修改了内容
+
+[33mcommit f5ac9cf52ceed319f05ab0d6dedc5a45e97a7164[m
+Author: shiran13243222016 <985289299@qq.com>
+Date:   Tue Jul 17 12:21:20 2018 +0800
+
+    添加了所有的日志
